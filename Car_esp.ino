@@ -1,14 +1,14 @@
 // ✅ Blynk Setup (Fixes compilation error)
-#define BLYNK_TEMPLATE_ID "TMPL3TLQEgx5G"
-#define BLYNK_TEMPLATE_NAME "Control DC Motor"
-#define BLYNK_AUTH_TOKEN "Agy_WK2oHVfV5iDah3KaDKlhmv9pWxVD"
+#define BLYNK_TEMPLATE_ID "ABCD"
+#define BLYNK_TEMPLATE_NAME "ABCD"
+#define BLYNK_AUTH_TOKEN "ABCD"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
 // 🔗 WiFi Credentials
-char ssid[] = "Redmi 13 5G";  
-char pass[] = "a1b2c3d4";  
+char ssid[] = "ABCD";  
+char pass[] = "ABCD";  
 
 // ⚙ Motor Driver Pins
 #define IN1 25
