@@ -5,7 +5,7 @@ import java.net.Socket;
 Socket socket;
 BufferedReader reader;
 
-String esp32_ip = "192.168.184.231";  // Change to your ESP32's actual IP
+String esp32_ip = "ABCD";  // Change to your ESP32's actual IP
 int esp32_port = 80;  // Matches ESP32's TCP server
 
 int angle = 0;
